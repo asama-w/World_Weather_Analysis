@@ -38,7 +38,7 @@ The purpose of this project is to help PlanMyTrip travel company analyze and fil
 
 ### 3. Vacation_Itinerary: (Deliverable 3)
 + **Code:** `Vacation_Itinerary.ipynb`
-+ The travel route of four cities, chosen from the WeatherPy_vacation.csv file is generated and displayed with the description markers using gmaps module. The travel mode is set as driving. 
++ The travel route of four cities, chosen from the WeatherPy_vacation.csv file, is generated and displayed with the description markers using gmaps module. The travel mode is set as driving. 
 + Outline of the `itinerary_df` dataframe
 
 <img src= https://github.com/asama-w/World_Weather_Analysis/blob/main/Additional%20Images/Four_destination_df.png width="80%" height="80%">
