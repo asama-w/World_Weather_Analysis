@@ -25,7 +25,7 @@ The purpose of this project is to help PlanMyTrip travel company analyze and fil
 
 ### 2. Vacation_Search: (Deliverable 2)
 + **Code:** `Vacation_Search.ipynb`
-+ The `WeatherPy_vacation.csv` contains 242 potential trip destinations based on the customer's input of preferred trip's temperature range with one nearby hotel name for each city. The data is filtered from the randomly generated cities in the mentioned dataframe above. The nearby hotel name for each city is retrieved via the Google Directions API. The desired destinations are displayed with summary description marker on the map using gmaps module.
++ The `WeatherPy_vacation.csv` contains 242 potential trip destinations based on the customer's input of preferred temperature range for the trip, with one nearby hotel name for each city. The data is filtered from the randomly generated cities in the mentioned dataframe above. The nearby hotel name for each city is retrieved via the Google Directions API. The desired destinations are displayed with summary description marker on the map using gmaps module.
 + Input minimum temperature for the trip is 70 Fahrenheit.
 + Input maximum temperature for the trip is 90 Fahrenheit.
 + Outline of the `clean_hotel_df` dataframe
